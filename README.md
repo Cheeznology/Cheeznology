@@ -17,9 +17,6 @@ Features:
 Marketplace:
 https://marketplace.visualstudio.com/items?itemName=cheeznology.inspectai
 
-Repository:
-https://github.com/Cheeznology/inspectai
-
 ## Goals
 
 - Build useful software

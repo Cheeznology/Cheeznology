@@ -1,15 +1,33 @@
-# Hey, I'm Cheeznology 👋
+# Hi, I'm Cheeznology 👋
 
-I build developer tools and VS Code extensions.
+I'm an independent developer building software, tools, and experiments across different platforms.
 
-## 🔧 What I've Built
+## Current Projects
 
 ### [InspectAI](https://marketplace.visualstudio.com/items?itemName=cheeznology.inspectai)
-> AI-powered code review inside VS Code. Catches bugs, security issues, and hallucinations before you commit. Right-click any code. Instant results. Free.
+AI-assisted code review inside VS Code.
 
-**Install it:** Search `InspectAI` in VS Code Extensions
+Features:
+- Bug detection
+- Security analysis
+- Risk scoring
+- Code quality feedback
+- Right-click review workflow
 
----
+Marketplace:
+https://marketplace.visualstudio.com/items?itemName=cheeznology.inspectai
 
+Repository:
+https://github.com/Cheeznology/inspectai
+
+## Goals
+
+- Build useful software
+- Learn by shipping projects
+- Improve developer workflows
+
+- - -
+  
 ## 📬 Contact
 - Email: cheeznology@gmail.com
+- GitHu Issues: https://github.com/Cheeznology

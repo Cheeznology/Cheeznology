@@ -1,4 +1,4 @@
-# Hi, I'm Cheeznology 👋
+# Hi, I'm Cheeznology 
 
 I'm an independent developer building software, tools, and experiments across different platforms.
 
@@ -25,6 +25,6 @@ https://marketplace.visualstudio.com/items?itemName=cheeznology.inspectai
 
 - - -
   
-## 📬 Contact
+## Contact
 - Email: cheeznology@gmail.com
-- GitHu Issues: https://github.com/Cheeznology
+- Issues: https://github.com/Cheeznology
